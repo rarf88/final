@@ -1,0 +1,5 @@
+{
+  "name": "frontend-plataforma-capacitaciones",
+  "private": true,
+  "notes": "Este frontend se monta sobre un proyecto Angular creado con CLI. Revisa README en la raíz."
+}
